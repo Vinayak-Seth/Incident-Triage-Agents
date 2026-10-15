@@ -7,7 +7,7 @@ louder than the real cause. This project detects incidents in log files and uses
 **Investigator** agent to find the root cause and a **Verifier** agent to check it, before
 producing a report with the cause, the evidence from the logs, and a suggested fix.
 
-> Industry training course project (4 members), Manipal University Jaipur.
+
 
 ---
 
